@@ -2,10 +2,11 @@
 
 # 👋 Hola, soy Arley Jesús Vera
 
-### **Desarrollador Java Junior | Backend Developer**
+### **Desarrollador Junior | Backend Developer**
 
-Estudiante de último semestre de **Ingeniería de Sistemas**, próximo a graduarme.
-Me enfoco en construir **APIs REST, aplicaciones web y soluciones backend** utilizando Java, Spring Boot, SQL y tecnologías web.
+Apasionado por construir **APIs REST, aplicaciones web y soluciones backend** con **Java, Spring Boot, SQL y tecnologías web**.
+
+Me interesa el **diseño de software, la arquitectura, la seguridad y las buenas prácticas de desarrollo**, siempre buscando convertir requerimientos en soluciones funcionales y mantenibles.
 
 <br>
 

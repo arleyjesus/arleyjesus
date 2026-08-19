@@ -2,9 +2,10 @@
 
 # 👋 Hello, I'm Arley Jesús Vera
 
-### **Software Engineer | Backend Developer**
+### **Java Developer | Backend Developer**
 
-> Building scalable applications with **Java**, **.NET** and **SQL**, while continuously learning **Software Architecture**, **Data Analytics** and **Artificial Intelligence**.
+Building web applications and REST APIs with **Java, Spring Boot, SQL and JavaScript**.
+Currently completing my **Systems Engineering degree** and building my professional path in software development.
 
 <br>
 
@@ -16,7 +17,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/TU-USUARIO">
+<a href="https://github.com/arleyjesus">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -24,36 +25,38 @@
 
 ---
 
-# 🙋 About Me
+## 👨‍💻 About Me
 
-I'm a **Systems Engineer** passionate about building backend solutions, designing scalable software and continuously improving my technical skills.
+I'm a **Systems Engineering student close to graduation**, focused on software development and backend engineering.
 
-💻 I enjoy developing REST APIs, working with relational databases and applying software engineering best practices.
+I enjoy building **REST APIs**, designing relational databases and developing applications using **Java and Spring Boot**.
 
-🌱 Currently expanding my knowledge in:
+My main areas of interest are:
 
-- Software Architecture
-- Design Patterns
-- Data Analytics
-- Artificial Intelligence
-- Cloud Technologies
+* ☕ Java & Spring Boot
+* 🔗 REST API development
+* 🗄️ SQL & relational databases
+* 🔐 Authentication & authorization with JWT
+* 🧪 Unit testing with JUnit & Mockito
+* 🌐 Web development with JavaScript, HTML & CSS
+* 🔧 Git & software development practices
 
-🚀 My goal is to grow as a Backend Developer and eventually become a Software Architect.
+I'm currently looking for my **first professional opportunity as a Java Developer / Software Developer**, where I can contribute, learn from experienced teams and continue growing as an engineer.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cs,js,html,css,sql"/>
+<img src="https://skillicons.dev/icons?i=java,cs,js,html,css,php"/>
 </p>
 
-### Frameworks & Technologies
+### Backend & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,dotnet,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=spring,dotnet,laravel"/>
 </p>
 
 ### Databases
@@ -62,7 +65,7 @@ I'm a **Systems Engineer** passionate about building backend solutions, designin
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-### Tools
+### Testing & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio,postman"/>
@@ -70,75 +73,93 @@ I'm a **Systems Engineer** passionate about building backend solutions, designin
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🏥 Hospital Management System
+### 🔐 User Management API
 
-Backend application developed with **.NET**, **SQL Server** and REST APIs focused on user and patient management.
+**Java | Spring Boot | Spring Security | JWT | MySQL | JUnit | Mockito**
 
-🔗 **Repository:** *(Coming Soon)*
+REST API developed for user management, authentication and authorization.
 
----
+**Key features:**
 
-### 📍 User Management API
+* RESTful API architecture
+* CRUD operations
+* JWT authentication
+* Spring Security authorization
+* Relational database with MySQL
+* Unit testing with JUnit & Mockito
+* API testing with Postman
 
-REST API built with **Spring Boot**, **JWT Authentication** and **MySQL**.
-
-🔗 **Repository:** *(Coming Soon)*
-
----
-
-### 🌐 IoT Dashboard
-
-Dashboard connected to **MongoDB Atlas**, REST APIs and IoT services.
-
-🔗 **Repository:** *(Coming Soon)*
+🔗 **Repository:** [View project](https://github.com/arleyjesus)
 
 ---
 
-# 📊 GitHub Stats
+### 🏥 Patient Management System
+
+**PHP | Laravel | MySQL | JWT | PHPUnit | JavaScript**
+
+Web application developed as a technical assessment for patient management.
+
+**Key features:**
+
+* RESTful CRUD API
+* Relational data modeling
+* JWT authentication
+* Input validation
+* Unit testing with PHPUnit
+* JavaScript Fetch API integration
+* Responsive web interface
+
+🔗 **Repository:** [View project](https://github.com/arleyjesus)
+
+---
+
+### 📡 IoT Dashboard
+
+**Angular | REST API | MQTT | MongoDB Atlas**
+
+Web dashboard developed for monitoring and managing IoT data.
+
+**Key features:**
+
+* Angular frontend
+* REST API integration
+* MQTT communication
+* MongoDB Atlas
+* Real-time data visualization
+
+🔗 **Repository:** [View project](https://github.com/arleyjesus)
+
+---
+
+## 📚 Currently Learning
+
+* 🏛 Software Architecture
+* ⚙️ Design Patterns
+* 🐳 Docker & containerization
+* ☁️ Cloud technologies
+* 📈 Data Analytics
+* 🤖 Artificial Intelligence
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arleyjesus&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arleyjesus&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌱 Currently Learning
-
-- 🏛 Software Architecture
-- ☁ Cloud Computing
-- 🐳 Docker
-- ⚙ Design Patterns
-- 📈 Data Analytics
-- 🤖 Artificial Intelligence
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/TU-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:arleyjesusvp16@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send%20Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 🚀 Always learning. Always building.
 
-*"Code is more than solving problems; it's about creating solutions that make a difference."*
+**Java • Spring Boot • REST APIs • SQL • Software Development**
 
 </div>

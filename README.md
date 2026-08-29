@@ -2,9 +2,9 @@
 
 # 👋 Hola, soy Arley Jesús Vera
 
-### **Desarrollador Junior | Backend Developer**
+### **Desarrollador Junior | Backend & Mobile Developer**
 
-Apasionado por construir **APIs REST, aplicaciones web y soluciones backend** con **Java, Spring Boot, SQL y tecnologías web**.
+Apasionado por construir **APIs REST, aplicaciones nativas, aplicaciones web y soluciones backend** con **Java, Kotlin, Spring Boot, SQL y tecnologías modernas**.
 
 Me interesa el **diseño de software, la arquitectura, la seguridad y las buenas prácticas de desarrollo**, siempre buscando convertir requerimientos en soluciones funcionales y mantenibles.
 
@@ -28,22 +28,23 @@ Me interesa el **diseño de software, la arquitectura, la seguridad y las buenas
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de último semestre de **Ingeniería de Sistemas**, orientado al desarrollo de software y especialmente interesado en el desarrollo backend.
+Soy estudiante de último semestre de **Ingeniería de Sistemas**, orientado al desarrollo de software y especialmente interesado en el desarrollo backend y móvil nativo.
 
-Me gusta convertir requerimientos en soluciones funcionales, trabajando principalmente con **Java, Spring Boot, APIs REST y bases de datos relacionales**.
+Me gusta convertir requerimientos en soluciones funcionales, trabajando principalmente con **Java, Kotlin, Spring Boot, APIs REST y bases de datos relacionales**.
 
 ### Actualmente trabajo y estudio sobre:
 
-* ☕ **Java y Spring Boot**
+* ☕ **Java, Kotlin y Spring Boot**
+* 📱 **Desarrollo Android Nativo (Jetpack Compose)**
 * 🔗 **Diseño y desarrollo de APIs REST**
-* 🗄️ **SQL y bases de datos relacionales**
+* 🗄️ **SQL y bases de datos relacionales (MySQL, Room)**
 * 🔐 **Autenticación y autorización**
 * 🧪 **Pruebas unitarias**
 * 🌐 **JavaScript, HTML y CSS**
 * 🔧 **Git y GitHub**
-* 🏗️ **Arquitectura y buenas prácticas de software**
+* 🏗️ **Arquitectura y buenas prácticas de software (Clean Architecture, MVVM)**
 
-Mi objetivo es iniciar mi carrera profesional como **Desarrollador Java Junior**, aportando mis conocimientos y creciendo dentro de equipos de desarrollo.
+Mi objetivo es iniciar mi carrera profesional como **Desarrollador Junior**, aportando mis conocimientos y creciendo dentro de equipos de desarrollo.
 
 ---
 
@@ -52,19 +53,19 @@ Mi objetivo es iniciar mi carrera profesional como **Desarrollador Java Junior**
 ### Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cs,js,html,css,php" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,js,html,css,php" />
 </p>
 
-### Backend
+### Frameworks & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,laravel" />
+  <img src="https://skillicons.dev/icons?i=spring,androidstudio,dotnet,laravel" />
 </p>
 
 ### Bases de datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
 </p>
 
 ### Herramientas
@@ -95,6 +96,26 @@ API REST desarrollada con **Java y Spring Boot** para gestión de usuarios, aute
 * Integración con JavaScript
 
 🔗 **[Ver repositorio](https://github.com/arleyjesus)**
+
+---
+
+### 🎵 SoundFlow – Reproductor de Música Nativo
+
+**Kotlin · Jetpack Compose · Room DB · ExoPlayer (Media3) · Clean Architecture · MVVM · Coroutines · REST API**
+
+Aplicación móvil nativa para Android de reproducción de música desarrollada en **Kotlin y Jetpack Compose**, enfocada en la gestión eficiente de recursos de audio locales y persistencia de datos.
+
+**Incluye:**
+
+* Interfaz moderna en Jetpack Compose con Material 3 y animaciones reactivas
+* Arquitectura en capas (Clean Architecture + MVVM)
+* Persistencia de listas de reproducción con Room Database (relaciones cruzadas M:N)
+* Motor de audio ExoPlayer (Media3) con reproducción en segundo plano y compatibilidad Bluetooth
+* Ecualizador multibanda, Bass Boost y temporizador de apagado con fade-out
+* Sistema de caché dual (RAM LruCache + Disco) para carátulas de audio locales
+* Integración con API REST (Deezer) en segundo plano para obtener fotos de artistas en tiempo real
+
+🔗 **[Ver repositorio](https://github.com/arleyjesus/comarleyaetheraudio)**
 
 ---
 
@@ -148,14 +169,14 @@ Me interesa construir software que sea:
 
 Por eso, en mis proyectos procuro aplicar:
 
-* Arquitectura organizada
+* Arquitectura organizada (Clean Architecture / MVVM)
 * Separación de responsabilidades
 * Validación de datos
 * Autenticación y autorización
 * Pruebas unitarias
 * Control de versiones con Git
 * Desarrollo y consumo de APIs REST
-* Modelado de bases de datos relacionales
+* Modelado de bases de datos relacionales y almacenamiento local
 
 ---
 
@@ -174,6 +195,6 @@ Por eso, en mis proyectos procuro aplicar:
 
 ### 🚀 Aprender · Construir · Mejorar
 
-**Java · Spring Boot · REST APIs · SQL · Software Development**
+**Java · Kotlin · Spring Boot · REST APIs · SQL · Software Development**
 
 </div>

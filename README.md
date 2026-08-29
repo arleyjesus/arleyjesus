@@ -10,8 +10,8 @@ Me interesa el **diseño de software, la arquitectura, la seguridad y las buenas
 
 <br>
 
-<a href="https://github.com/arleyjesus">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/arleyjesus?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub_Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/">
@@ -115,7 +115,7 @@ Aplicación móvil nativa para Android de reproducción de música desarrollada 
 * Sistema de caché dual (RAM LruCache + Disco) para carátulas de audio locales
 * Integración con API REST (Deezer) en segundo plano para obtener fotos de artistas en tiempo real
 
-🔗 **[Ver repositorio](https://github.com/arleyjesus/comarleyaetheraudio)**
+🔗 **[Ver repositorio](https://github.com/arleyjesus/SoundFlow)**
 
 ---
 

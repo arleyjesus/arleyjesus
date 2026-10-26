@@ -1,4 +1,4 @@
-[<div align="center">
+<div align="center">
 
 # 👋 Hola, soy Arley Jesús Vera
 
@@ -198,4 +198,3 @@ Por eso, en mis proyectos procuro aplicar:
 **Java · Kotlin · Spring Boot · REST APIs · SQL · Software Development**
 
 </div>
-](https://github.com/arleyjesus/casa-tv-launcher)

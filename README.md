@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 👋 Hola, soy Arley Jesús Vera
@@ -11,15 +12,13 @@ Me interesa el **diseño de software, la arquitectura, la seguridad y las buenas
 <br>
 
 <a href="https://github.com/arleyjesus?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub_Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios">
 </a>
-
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
 <a href="mailto:arleyjesusvp16@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
@@ -34,15 +33,15 @@ Me gusta convertir requerimientos en soluciones funcionales, trabajando principa
 
 ### Actualmente trabajo y estudio sobre:
 
-* ☕ **Java, Kotlin y Spring Boot**
-* 📱 **Desarrollo Android Nativo (Jetpack Compose)**
-* 🔗 **Diseño y desarrollo de APIs REST**
-* 🗄️ **SQL y bases de datos relacionales (MySQL, Room)**
-* 🔐 **Autenticación y autorización**
-* 🧪 **Pruebas unitarias**
-* 🌐 **JavaScript, HTML y CSS**
-* 🔧 **Git y GitHub**
-* 🏗️ **Arquitectura y buenas prácticas de software (Clean Architecture, MVVM)**
+- ☕ **Java, Kotlin y Spring Boot**
+- 📱 **Desarrollo Android Nativo (Jetpack Compose)**
+- 🔗 **Diseño y desarrollo de APIs REST**
+- 🗄️ **SQL y bases de datos relacionales (MySQL, Room)**
+- 🔐 **Autenticación y autorización**
+- 🧪 **Pruebas unitarias**
+- 🌐 **JavaScript, HTML y CSS**
+- 🔧 **Git y GitHub**
+- 🏗️ **Arquitectura y buenas prácticas de software (Clean Architecture, MVVM)**
 
 Mi objetivo es iniciar mi carrera profesional como **Desarrollador Junior**, aportando mis conocimientos y creciendo dentro de equipos de desarrollo.
 
@@ -53,111 +52,144 @@ Mi objetivo es iniciar mi carrera profesional como **Desarrollador Junior**, apo
 ### Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,js,html,css,php" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,js,html,css,php" alt="Lenguajes">
 </p>
 
 ### Frameworks & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,androidstudio,dotnet,laravel" />
+  <img src="https://skillicons.dev/icons?i=spring,androidstudio,dotnet,laravel" alt="Frameworks">
 </p>
 
 ### Bases de datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="Bases de datos">
 </p>
 
 ### Herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,visualstudio,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,visualstudio,postman" alt="Herramientas">
 </p>
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### ☕ Sistema Web de Gestión de Usuarios
+<p align="center">
+  Una selección de proyectos donde aplico desarrollo backend,
+  móvil, arquitectura de software y buenas prácticas.
+</p>
 
-**Java · Spring Boot · Spring Security · JWT · MySQL · JUnit · Mockito · JavaScript**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <!-- Imagen opcional:
+        <img src="./assets/projects/casa-tv-launcher.png" width="100%" alt="Casa Aura TV">
+        -->
+        <h3>📺 Casa Aura TV</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Android_TV-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android TV">
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+        </p>
+      </div>
+      <p>
+        Launcher independiente para Android TV, orientado a
+        personalizar la pantalla de inicio y facilitar el acceso
+        a las aplicaciones y funciones del televisor.
+      </p>
+      <p><b>Destaca por:</b> personalización, navegación TV, integración HDMI y enfoque en estabilidad.</p>
+      <p align="center">
+        <a href="https://github.com/arleyjesus/casa-tv-launcher">
+          <b>📂 Ver repositorio →</b>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <!-- Imagen opcional:
+        <img src="./assets/projects/soundflow.png" width="100%" alt="SoundFlow">
+        -->
+        <h3>🎵 SoundFlow</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+          <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Compose">
+        </p>
+      </div>
+      <p>
+        Reproductor de música nativo para Android desarrollado
+        con Kotlin y Jetpack Compose, centrado en la reproducción
+        y organización de archivos de audio.
+      </p>
+      <p><b>Destaca por:</b> Clean Architecture, MVVM, Room, Media3 y reproducción en segundo plano.</p>
+      <p align="center">
+        <a href="https://github.com/arleyjesus/SoundFlow">
+          <b>📂 Ver repositorio →</b>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <!-- Imagen opcional:
+        <img src="./assets/projects/gestion-pacientes.png" width="100%" alt="Gestión de Pacientes">
+        -->
+        <h3>🏥 Gestión de Pacientes</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+        </p>
+      </div>
+      <p>
+        Sistema web desarrollado como prueba técnica para
+        la administración de pacientes, integrando backend,
+        frontend y base de datos relacional.
+      </p>
+      <p><b>Destaca por:</b> API REST, CRUD, Laravel Sanctum, validación de datos y pruebas con PHPUnit.</p>
+      <p align="center">
+        <a href="https://github.com/arleyjesus/gestion-pacientes-sihos">
+          <b>📂 Ver repositorio →</b>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <!-- Imagen opcional:
+        <img src="./assets/projects/social-war.png" width="100%" alt="Social War">
+        -->
+        <h3>🌐 Social War</h3>
+        <p>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+          <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+        </p>
+      </div>
+      <p>
+        Plataforma educativa para explorar la gestión de
+        tecnologías de información mediante escenarios
+        y simulaciones colaborativas.
+      </p>
+      <p><b>Destaca por:</b> gestión TI, ITIL 4, DevOps y transformación digital.</p>
+      <p align="center">
+        <a href="https://github.com/arleyjesus/social-war-gerencia-ti">
+          <b>📂 Ver repositorio →</b>
+        </a>
+        <br>
+        <a href="https://social-war-gerencia-ti.vercel.app/">
+          🌍 Ver aplicación →
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-API REST desarrollada con **Java y Spring Boot** para gestión de usuarios, autenticación y autorización.
+<div align="center">
 
-**Incluye:**
+**[🔗 Explorar todos mis repositorios](https://github.com/arleyjesus?tab=repositories)**
 
-* API REST
-* Operaciones CRUD
-* Persistencia de datos con MySQL
-* Autenticación y autorización con JWT
-* Spring Security
-* Pruebas unitarias con JUnit y Mockito
-* Validación de endpoints con Postman
-* Integración con JavaScript
-
-🔗 **[Ver repositorio](https://github.com/arleyjesus)**
-
----
-
-### 🎵 SoundFlow – Reproductor de Música Nativo
-
-**Kotlin · Jetpack Compose · Room DB · ExoPlayer (Media3) · Clean Architecture · MVVM · Coroutines · REST API**
-
-Aplicación móvil nativa para Android de reproducción de música desarrollada en **Kotlin y Jetpack Compose**, enfocada en la gestión eficiente de recursos de audio locales y persistencia de datos.
-
-**Incluye:**
-
-* Interfaz moderna en Jetpack Compose con Material 3 y animaciones reactivas
-* Arquitectura en capas (Clean Architecture + MVVM)
-* Persistencia de listas de reproducción con Room Database (relaciones cruzadas M:N)
-* Motor de audio ExoPlayer (Media3) con reproducción en segundo plano y compatibilidad Bluetooth
-* Ecualizador multibanda, Bass Boost y temporizador de apagado con fade-out
-* Sistema de caché dual (RAM LruCache + Disco) para carátulas de audio locales
-* Integración con API REST (Deezer) en segundo plano para obtener fotos de artistas en tiempo real
-
-🔗 **[Ver repositorio](https://github.com/arleyjesus/SoundFlow)**
-
----
-
-### 🏥 Sistema de Gestión de Pacientes
-
-**PHP · Laravel 11 · MySQL · Sanctum · PHPUnit · JavaScript · Fetch API · Bootstrap**
-
-Sistema web desarrollado como **prueba técnica**, con arquitectura backend + frontend para la administración de pacientes.
-
-**Incluye:**
-
-* API RESTful con operaciones CRUD
-* Modelo relacional con MySQL
-* Migraciones y seeders
-* Laravel Eloquent ORM
-* Autenticación basada en tokens con Laravel Sanctum
-* Validación de datos en servidor y cliente
-* Pruebas automatizadas con PHPUnit
-* Operaciones asíncronas mediante JavaScript y Fetch API
-* Interfaz responsive con Bootstrap
-* Búsqueda de pacientes en tiempo real
-
-🔗 **[Ver repositorio](https://github.com/arleyjesus/gestion-pacientes-sihos)**
-
----
-
-### 📡 IoT Dashboard
-
-**Angular · REST API · MQTT · MongoDB Atlas**
-
-Dashboard web desarrollado para visualizar y gestionar información proveniente de un entorno IoT.
-
-**Tecnologías y conceptos aplicados:**
-
-* Angular
-* Consumo de APIs REST
-* MQTT
-* MongoDB Atlas
-* Integración frontend/backend
-* Visualización de datos
-
-🔗 **[Ver repositorio](https://github.com/arleyjesus)**
+</div>
 
 ---
 
@@ -165,29 +197,33 @@ Dashboard web desarrollado para visualizar y gestionar información proveniente 
 
 Me interesa construir software que sea:
 
-**Funcional → mantenible → seguro → probado**
+<div align="center">
+
+**Funcional → Mantenible → Seguro → Probado**
+
+</div>
 
 Por eso, en mis proyectos procuro aplicar:
 
-* Arquitectura organizada (Clean Architecture / MVVM)
-* Separación de responsabilidades
-* Validación de datos
-* Autenticación y autorización
-* Pruebas unitarias
-* Control de versiones con Git
-* Desarrollo y consumo de APIs REST
-* Modelado de bases de datos relacionales y almacenamiento local
+- Arquitectura organizada (Clean Architecture / MVVM)
+- Separación de responsabilidades
+- Validación de datos
+- Autenticación y autorización
+- Pruebas unitarias
+- Control de versiones con Git
+- Desarrollo y consumo de APIs REST
+- Modelado de bases de datos relacionales y almacenamiento local
 
 ---
 
 ## 📚 Actualmente aprendiendo
 
-* 🏛️ Arquitectura de software
-* ⚙️ Patrones de diseño
-* 🐳 Docker y contenedores
-* ☁️ Tecnologías Cloud
-* 📊 Analítica de datos
-* 🤖 Inteligencia Artificial
+- 🏛️ Arquitectura de software
+- ⚙️ Patrones de diseño
+- 🐳 Docker y contenedores
+- ☁️ Tecnologías Cloud
+- 📊 Analítica de datos
+- 🤖 Inteligencia Artificial
 
 ---
 
